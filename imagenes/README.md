@@ -1,14 +1,18 @@
 Project images, hardware components, and prototype documentation.
-### Prototype Images
+# Project Images
 
-![Prototype](imagenes/IMG-20241128-WA0005.jpg)
+Project images, hardware components, and prototype documentation.
 
-![Electronics](imagenes/IMG_20241128_194001.jpg)
+## Prototype Images
 
-![Mechanical System](imagenes/IMG_20241128_195021.jpg)
+![Prototype](IMG-20241128-WA0005.jpg)
+
+![Electronics](IMG_20241128_194001.jpg)
+
+![Mechanical System](IMG_20241128_195021.jpg)
 
 ---
 
-### Prototype Video
+## Prototype Video
 
-[Watch Demonstration Video](imagenes/VID_20241202_024822.mp4)
+[Watch Demonstration Video](VID_20241202_024822a.mp4)
