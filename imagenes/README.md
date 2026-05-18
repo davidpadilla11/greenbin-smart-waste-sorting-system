@@ -148,16 +148,16 @@ The structure helped protect the internal mechanical and electronic components f
 
 ![Camera Prototype](media/modelodeCamara.jpg)
 
-Model of camera used for waste detection: Klipxtreme Laugham (KWC-500)
+Model of camera used for waste detection: Klipxtreme Laguham (KWC-500)
 
-The camera system detected and enclosed the objects inside a bounding box before sending the image information to the OpenAI API using the GPT-4o model.
+The vision system detected objects using bounding boxes before sending the image to the OpenAI API with the GPT-4o model.
 
 The AI model classified the detected waste into the following categories:
 
-- Organic waste
-- Recyclable waste
-- Non-recyclable waste
-- Biological risk waste
+- Organic
+- Recyclable
+- Non-recyclable
+- Biological risk
 
 Prompt used in the system:
 
@@ -167,7 +167,7 @@ Prompt used in the system:
 
 ---
 
-# AI Object Detection Tests
+# Object Detection Tests
 
 The following images show object detection experiments performed using the computer vision system.
 
