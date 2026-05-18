@@ -1,25 +1,23 @@
-# Project Images
+## Prototype Videos
 
-Project images, hardware components, and prototype documentation.
+### SolidWorks Mechanical Animation
 
-## Prototype Video
-
-[![Watch GreenBin Demonstration Video](IMG_20241128_195021.jpg)](https://youtube.com/shorts/-OyiT_zXJSk?feature=share)
-
-Click the image above to watch the system demonstration video.
+1. [SolidWorks System Animation](https://www.youtube.com/watch?v=Vz2Qn7ClXDQ)
 
 ---
 
-## Prototype Images
+### System Operation
 
-### System Operation Diagram
+1. [System Operation - Video 1](https://youtube.com/shorts/hdfvRof-kTo?si=nsPKkvwDemY0PTqk)
 
-<img src="IMG-20241128-WA0005.jpg" width="700">
+2. [System Operation - Video 2](https://youtube.com/shorts/4BFDa6KTnlE?si=5cehAOPIavr-avLs)
 
-### Electronics and Stepper Motor System
+3. [System Operation - Video 3](https://youtube.com/shorts/-OyiT_zXJSk?si=_aoGU007zTufuVbw)
 
-<img src="IMG_20241128_194001.jpg" width="700">
+---
 
-### Final GreenBin Prototype
+### Construction Process
 
-<img src="IMG_20241128_195021.jpg" width="400">
+1. [Construction Process - Video 1](https://youtube.com/shorts/FIJEmQkFpik?si=69EW74VwNNBN_zoi)
+
+2. [Construction Process - Video 2](https://youtube.com/shorts/K8SWhSNdhhY?si=fuO97D4Np5HeXaKV)
