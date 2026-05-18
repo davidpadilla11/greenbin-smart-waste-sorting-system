@@ -92,7 +92,7 @@ Power distribution system with fuses and electronic integration with the Nano Je
 
 ![IBT-2](media/ibt2.png)
 
-Motor controller used for actuator movement.
+Motor driver used to provide power and movement control for the linear actuators through Arduino commands.
 
 ---
 
