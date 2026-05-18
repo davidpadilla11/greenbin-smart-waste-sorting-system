@@ -1,180 +1,179 @@
-# GreenBin Media Documentation
+# GreenBin Smart Waste Sorting System
 
-This folder contains multimedia resources related to the development of the GreenBin smart waste sorting system.
+This folder contains images and multimedia files related to the development of the GreenBin smart waste sorting system.
+
+The project combines:
+- Computer vision
+- Embedded systems
+- Mechanical design
+- Electronics
+- Automation
 
 ---
 
-# 1. CAD Design
+# System Design
 
-## SolidWorks Concept Design
+## SolidWorks Prototype
 
 ![SolidWorks Design](media/solidcaneca.jpg)
 
-Initial CAD prototype of the GreenBin smart waste sorting system developed in SolidWorks.
+Initial 3D design of the GreenBin structure developed in SolidWorks.
 
 ---
 
-# 2. Embedded System and Electronics
+## Mechanical Construction
 
-## NVIDIA Jetson Nano Integration
+![Mechanical Structure](media/construccioncaneca.jpg)
+
+Physical construction process of the GreenBin prototype.
+
+---
+
+# Embedded System
+
+## NVIDIA Jetson Nano
 
 ![Jetson Nano](media/nanojetson.png)
 
-Embedded AI computer used for computer vision inference and communication with the control system.
+The Jetson Nano is used to run the computer vision model and classify waste objects.
 
 ---
 
-## IBT-2 Motor Driver
-
-![IBT-2 Driver](media/ibt2.png)
-
-High-current motor driver used for actuator and motion control.
-
----
-
-## Power Distribution and Embedded System
+## Embedded Power System
 
 ![Power System](media/nanoSistemadePotencia.jpg)
 
-Power distribution and embedded integration system connecting drivers, actuators, and Jetson Nano.
+Power distribution and embedded electronics integration system.
 
 ---
 
-## YX850 Relay Module
+# Electronics and Components
 
-![Relay Module](media/modulo yx850.png)
+## IBT-2 Driver Module
 
-Relay module used for switching and actuator control.
+![IBT2](media/ibt2.png)
 
----
-
-## Emergency Energy and Fuse System
-
-![Fuse System](media/Fusiblesysistemadeemergenciadeenergia.jpg)
-
-Electrical protection and emergency power distribution system.
+Motor driver used for actuator and movement control.
 
 ---
 
-# 3. Mechanical Components
+## Relay Module
+
+![Relay](media/modulo yx850.png)
+
+Relay module used for switching electronic devices.
+
+---
 
 ## Linear Actuator
 
 ![Actuator](media/actuador.jpg)
 
-Linear actuator responsible for gate opening and movement control.
+Linear actuator used for gate and mechanism movement.
 
 ---
 
-## Stepper Motor and Pulley Mechanism
+## Pulley System
 
 ![Pulley System](media/PoleayMotorPPasoAPaso.jpg)
 
-Mechanical transmission system based on pulleys and stepper motor positioning.
+Stepper motor and pulley mechanism used for positioning.
 
 ---
 
-## Pulley Assembly
+## Pulley Components
 
 ![Pulleys](media/Poleas.jpg)
 
-Pulley mechanism used for rotational positioning.
+Mechanical pulley transmission system.
 
 ---
 
-# 4. Computer Vision Development
+## Emergency Energy System
+
+![Fuse System](media/Fusiblesysistemadeemergenciadeenergia.jpg)
+
+Protection and emergency electrical system.
+
+---
+
+# Computer Vision
 
 ## Camera Prototype
 
 ![Camera Model](media/modelodeCamara.jpg)
 
-Initial computer vision camera configuration tests.
+Camera configuration used for object detection tests.
 
 ---
 
-## GreenBin Detection Environment
+## Detection Environment
 
 ![GreenBin Vision](media/imagenGreenBin.jpg)
 
-Computer vision testing environment for waste detection and classification.
+Environment used for computer vision experiments and object classification.
 
 ---
 
-# 5. System Logic and Workflow
+# System Logic
 
-## Whiteboard Development Diagram
+## Development Whiteboard
 
-![Workflow Diagram](media/tableroenpared.jpg)
+![Whiteboard](media/tableroenpared.jpg)
 
-Development workflow and communication logic between Arduino, Jetson Nano, sensors, and actuators.
-
----
-
-## Digitized Logic Diagram
-
-![Digital Workflow](media/TableroDigitalizado.jpg)
-
-Digitized version of the control logic and system architecture.
+Development notes and communication logic between Arduino, Jetson Nano, sensors, and actuators.
 
 ---
 
-# 6. Mechanical Construction
+## Digital Diagram
 
-## Structural Construction Phase
+![Digital Diagram](media/TableroDigitalizado.jpg)
 
-![Construction](media/construccioncaneca.jpg)
-
-Mechanical assembly and fabrication process of the GreenBin structure.
+Digitized version of the system workflow.
 
 ---
 
-## Acrylic Leachate System
+# Additional Mechanical Elements
+
+## Acrylic Structure
 
 ![Acrylic System](media/acliricoLixiviados.jpg)
 
-Acrylic structure designed for leachate management.
+Acrylic compartment structure for the prototype.
 
 ---
 
-# 7. Object Detection Tests
+# Object Detection Tests
+
+The following images show computer vision detection tests performed with different objects.
 
 ## Tape Detection
 
-![Tape Detection](media/cinta_movement_2024-12-02_13-41-46.jpg)
-
-Computer vision detection test using adhesive tape.
+![Tape](media/cinta_movement_2024-12-02_13-41-46.jpg)
 
 ---
 
-## Jumper Wire Detection
+## Jumper Detection
 
-![Jumper Detection](media/jumpers_movement_2024-12-02_13-01-38.jpg)
-
-Detection and tracking of jumper wires.
+![Jumpers](media/jumpers_movement_2024-12-02_13-01-38.jpg)
 
 ---
 
 ## Orange Detection
 
-![Orange Detection](media/naranja_movement_2024-12-02_12-59-19.jpg)
-
-Object classification and detection test using an orange.
+![Orange](media/naranja_movement_2024-12-02_12-59-19.jpg)
 
 ---
 
 ## Sponge Detection
 
-![Sponge Detection](media/esponja_movement_2024-12-02_12-56-32.jpg)
-
-Detection test using a sponge object.
+![Sponge](media/esponja_movement_2024-12-02_12-56-32.jpg)
 
 ---
 
 ## Can Detection
 
-![Can Detection](media/lata1_movement_2024-12-02_12-55-27.jpg)
-
-Metal can object detection test.
+![Can](media/lata1_movement_2024-12-02_12-55-27.jpg)
 
 ---
 
@@ -182,15 +181,11 @@ Metal can object detection test.
 
 ![Coffee Container](media/recipientedecafe_movement_2024-12-02_12-54-15.jpg)
 
-Detection and localization of a coffee container.
-
 ---
 
 ## Syringe Detection
 
-![Syringe Detection](media/jeringa_movement_2024-12-02_12-51-49.jpg)
-
-Detection test for syringe-shaped objects.
+![Syringe](media/jeringa_movement_2024-12-02_12-51-49.jpg)
 
 ---
 
@@ -198,21 +193,24 @@ Detection test for syringe-shaped objects.
 
 ![Snack Package](media/paquetedoritos_movement_2024-12-02_12-49-36.jpg)
 
-Object recognition using snack package samples.
-
 ---
 
 ## Secondary Can Detection
 
-![Can Detection 2](media/lata2_movement_2024-12-02_12-48-24.jpg)
-
-Additional metal can classification test.
+![Can 2](media/lata2_movement_2024-12-02_12-48-24.jpg)
 
 ---
 
-# 8. Demonstration Videos
+# Videos
 
-Videos available inside:
+The folder also contains demonstration videos related to:
+- Object detection
+- Waste classification
+- Mechanical movement
+- Embedded system tests
+- Full prototype operation
+
+Location:
 
 ```text
 media/Videos/
